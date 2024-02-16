@@ -1,0 +1,32 @@
+1 Python review 1
+        1.1 Introduction 
+2 Download and Installation 
+3 Basics 
+    3.1 Run code from Python shell (>>>) 
+    3.2 Running Python Files 
+    3.3 Variables 
+    3.4 Built-in object types 
+    3.5 Numbers 
+    3.6 String 
+    3.7 List 
+    3.8 Tuple 
+    3.9 Dictionary 
+4 Number conversion 
+    4.1 Direct conversion 
+    4.2 zfill 
+5 Control structure 
+    5.1 if-else 
+    5.2 While loop 
+    5.3 For loop 
+6 Function 
+7 Good practices 
+    7.1 Avoid range command 
+    7.2 Enumerate 
+    7.3 Loop in sorted order 
+    7.4 Loop over keys 
+    7.5 Loop over keys and values 
+    7.6 Create dictionaries from lists 
+    7.7 Looping and modifying the list simultaneously 
+    7.8 Check items in the list 
+    7.9 Unpacking 
+    7.10 Update variables 
